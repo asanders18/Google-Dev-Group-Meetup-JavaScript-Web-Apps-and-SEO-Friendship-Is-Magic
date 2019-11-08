@@ -240,7 +240,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 
-### 1. Add these into unit testing (assert the tag values are what they should be):
+### 1. Add these into unit testing (assert the tag values / files are what they should be):
 
 - [ ] link tags with canonical attributes (SEOs can provide what values canonical tags should be)
 - [ ] meta robots tags (99.99% (repeating of course) should NOT have `noindex`)
@@ -249,7 +249,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 - [ ] title tags
 - [ ] meta descriptions
 - [ ] XML sitemap (assert present and includes top KPI-driving URLs) 
-- [ ] robots.txt (assert what it should be)
+- [ ] robots.txt 
 - [ ] (if you prerender or give bots SSR version) content is appearing
 
 <br />
