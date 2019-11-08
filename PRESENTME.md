@@ -272,6 +272,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 
 - [ ] XML sitemap creation 
 - [ ] image compression
+- [ ] (supporting content creator's workflow (more on this later))
 
 <br />
 <br />
@@ -637,7 +638,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 - [ ] (maybbbbeee additional `rel=""` attributes to `<a>` tags (like `nofollow`, `sponsored`, and `ugc`)
 
 * *Note: `<a>` tags is how all internal links are connected, don't get fancy on us.*
-* *Side note: if you're a fan of graph theory; ultimately we want a connected, directed graph (where all vertexes (i.e., pages), have an edge (i.e., links) with edges that make sense.*
+* *Side note: if you're a fan of graph theory; ultimately we want a connected, directed graph (where all vertexes (i.e., pages), have an edge (i.e., links) with edges that make sense)*
 	* In a way, it's almost like building roads! We need roads to get people from city to city, but roads should make sense.
 
 <br />
