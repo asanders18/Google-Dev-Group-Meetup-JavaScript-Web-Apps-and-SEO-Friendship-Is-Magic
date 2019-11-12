@@ -281,6 +281,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 
 **Neither Dev nor SEOs are robots**
+
 ![Not a robot](logisim-not-a-robot.png)
 
 <br />
@@ -917,6 +918,7 @@ So, today, we're going to go through some ways we can improve our mutual happine
 <br />
 <br />
 <br />
+
 `pause(); //pause neverending struggle`
 
 <br />
